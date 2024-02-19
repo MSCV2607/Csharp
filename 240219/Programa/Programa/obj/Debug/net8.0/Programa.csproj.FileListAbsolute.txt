@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\bin\Debug\net8.0\Programa.exe
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\bin\Debug\net8.0\Programa.deps.json
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\bin\Debug\net8.0\Programa.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\bin\Debug\net8.0\Programa.dll
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\bin\Debug\net8.0\Programa.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.dll
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\refint\Programa.dll
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\Programa.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\Programa\Programa\obj\Debug\net8.0\ref\Programa.dll
