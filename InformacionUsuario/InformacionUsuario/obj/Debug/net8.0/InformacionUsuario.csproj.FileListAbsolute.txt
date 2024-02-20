@@ -1,0 +1,15 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\bin\Debug\net8.0\InformacionUsuario.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\bin\Debug\net8.0\InformacionUsuario.deps.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\bin\Debug\net8.0\InformacionUsuario.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\bin\Debug\net8.0\InformacionUsuario.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\bin\Debug\net8.0\InformacionUsuario.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.sourcelink.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\refint\InformacionUsuario.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\InformacionUsuario.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\InformacionUsuario\InformacionUsuario\obj\Debug\net8.0\ref\InformacionUsuario.dll

@@ -1,0 +1,15 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
