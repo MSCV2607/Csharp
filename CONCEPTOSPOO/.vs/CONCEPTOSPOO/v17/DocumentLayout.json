@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B42059A-50A6-4128-8814-B5FE4456B6E5}|CONCEPTOSPOO\\CONCEPTOSPOO.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\conceptospoo\\conceptospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B42059A-50A6-4128-8814-B5FE4456B6E5}|CONCEPTOSPOO\\CONCEPTOSPOO.csproj|solutionrelative:conceptospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B42059A-50A6-4128-8814-B5FE4456B6E5}|CONCEPTOSPOO\\CONCEPTOSPOO.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\conceptospoo\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B42059A-50A6-4128-8814-B5FE4456B6E5}|CONCEPTOSPOO\\CONCEPTOSPOO.csproj|solutionrelative:conceptospoo\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\CONCEPTOSPOO\\Program.cs",
+              "RelativeDocumentMoniker": "CONCEPTOSPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\CONCEPTOSPOO\\Program.cs",
+              "RelativeToolTip": "CONCEPTOSPOO\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:30:13.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PUNTO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\CONCEPTOSPOO\\PUNTO.cs",
+              "RelativeDocumentMoniker": "CONCEPTOSPOO\\PUNTO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\CONCEPTOSPOO\\CONCEPTOSPOO\\PUNTO.cs",
+              "RelativeToolTip": "CONCEPTOSPOO\\PUNTO.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:35:34.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
