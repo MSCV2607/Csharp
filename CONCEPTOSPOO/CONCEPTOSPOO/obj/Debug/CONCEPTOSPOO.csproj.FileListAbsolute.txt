@@ -1,7 +1,0 @@
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\bin\Debug\CONCEPTOSPOO.exe.config
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\bin\Debug\CONCEPTOSPOO.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\bin\Debug\CONCEPTOSPOO.pdb
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\obj\Debug\CONCEPTOSPOO.csproj.AssemblyReference.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\obj\Debug\CONCEPTOSPOO.csproj.CoreCompileInputs.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\obj\Debug\CONCEPTOSPOO.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\CONCEPTOSPOO\CONCEPTOSPOO\obj\Debug\CONCEPTOSPOO.pdb
