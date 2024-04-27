@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\bin\Debug\UsoArray.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\bin\Debug\UsoArray.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\bin\Debug\UsoArray.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\obj\Debug\UsoArray.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\obj\Debug\UsoArray.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\obj\Debug\UsoArray.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoArray\UsoArray\obj\Debug\UsoArray.pdb
