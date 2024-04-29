@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\polimorfismo\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\polimorfismo\\polimorfismo\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\polimorfismo\\polimorfismo\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\polimorfismo\\polimorfismo\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\polimorfismo\\polimorfismo\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06232D50-1BAA-4EEB-9E66-1C3392681917}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:37:18.764Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Mamifero.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Mamifero.cs",
+              "RelativeToolTip": "Polimorfismo\\Mamifero.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:00:16.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gorilas.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Gorilas.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Gorilas.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Gorilas.cs",
+              "RelativeToolTip": "Polimorfismo\\Gorilas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:59:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caballo.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Caballo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Caballo.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Caballo.cs",
+              "RelativeToolTip": "Polimorfismo\\Caballo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:59:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Humano.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Humano.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Polimorfismo\\Polimorfismo\\Humano.cs",
+              "RelativeToolTip": "Polimorfismo\\Humano.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:58:54.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
