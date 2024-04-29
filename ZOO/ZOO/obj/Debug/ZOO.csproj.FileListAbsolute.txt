@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\bin\Debug\ZOO.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\bin\Debug\ZOO.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\bin\Debug\ZOO.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\obj\Debug\ZOO.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\obj\Debug\ZOO.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\obj\Debug\ZOO.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ZOO\ZOO\obj\Debug\ZOO.pdb
