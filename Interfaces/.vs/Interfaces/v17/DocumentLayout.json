@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\imamiferosterrestres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\imamiferosterrestres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\interfaces\\interfaces\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E0D67-8D28-4585-90AB-ACFDAAB5D0E0}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:31:42.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMamiferosTerrestres.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\IMamiferosTerrestres.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMamiferosTerrestres.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\IMamiferosTerrestres.cs",
+              "RelativeToolTip": "Interfaces\\IMamiferosTerrestres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:48:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ballena.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Ballena.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Ballena.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Ballena.cs",
+              "RelativeToolTip": "Interfaces\\Ballena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:42:34.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Mamifero.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Mamifero.cs",
+              "RelativeToolTip": "Interfaces\\Mamifero.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:39:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gorilas.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Gorilas.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Gorilas.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Gorilas.cs",
+              "RelativeToolTip": "Interfaces\\Gorilas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:39:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caballo.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Caballo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Caballo.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Caballo.cs",
+              "RelativeToolTip": "Interfaces\\Caballo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:39:03.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Humano.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Humano.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Interfaces\\Interfaces\\Humano.cs",
+              "RelativeToolTip": "Interfaces\\Humano.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:38:47.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
