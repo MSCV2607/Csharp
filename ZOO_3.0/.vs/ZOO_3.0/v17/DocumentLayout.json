@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\cuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\cuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\zoo_3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\zoo_3.0\\zoo_3.0\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF524AC2-B6CE-459B-8105-C516912356D9}|ZOO_3.0\\ZOO_3.0.csproj|solutionrelative:zoo_3.0\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Program.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Program.cs",
+              "RelativeToolTip": "ZOO_3.0\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:02:59.482Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuidador.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Cuidador.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Cuidador.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Cuidador.cs",
+              "RelativeToolTip": "ZOO_3.0\\Cuidador.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:56:20.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZOO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\ZOO.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\ZOO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\ZOO.cs",
+              "RelativeToolTip": "ZOO_3.0\\ZOO.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:11:17.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\IAnimal.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\IAnimal.cs",
+              "RelativeToolTip": "ZOO_3.0\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:14:42.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Animal.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Animal.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Animal.cs",
+              "RelativeToolTip": "ZOO_3.0\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:19:16.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Mamifero.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Mamifero.cs",
+              "RelativeToolTip": "ZOO_3.0\\Mamifero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:16:05.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ave.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Ave.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Ave.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Ave.cs",
+              "RelativeToolTip": "ZOO_3.0\\Ave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:16:35.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Pez.cs",
+              "RelativeDocumentMoniker": "ZOO_3.0\\Pez.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\ZOO_3.0\\ZOO_3.0\\Pez.cs",
+              "RelativeToolTip": "ZOO_3.0\\Pez.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:16:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
