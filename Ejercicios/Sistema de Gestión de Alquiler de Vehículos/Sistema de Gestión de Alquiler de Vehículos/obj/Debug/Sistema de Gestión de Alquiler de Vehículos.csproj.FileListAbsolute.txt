@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\bin\Debug\Sistema de Gestión de Alquiler de Vehículos.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\bin\Debug\Sistema de Gestión de Alquiler de Vehículos.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\bin\Debug\Sistema de Gestión de Alquiler de Vehículos.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\obj\Debug\Sistema de Gestión de Alquiler de Vehículos.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\obj\Debug\Sistema de Gestión de Alquiler de Vehículos.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\obj\Debug\Sistema de Gestión de Alquiler de Vehículos.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Sistema de Gestión de Alquiler de Vehículos\Sistema de Gestión de Alquiler de Vehículos\obj\Debug\Sistema de Gestión de Alquiler de Vehículos.pdb

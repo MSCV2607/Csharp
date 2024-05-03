@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|solutionrelative:sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|solutionrelative:sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|solutionrelative:sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|solutionrelative:sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\irapido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA915296-DD65-4B05-B2C5-0E003F888455}|Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos.csproj|solutionrelative:sistema de gesti\u00F3n de alquiler de veh\u00EDculos\\irapido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Program.cs",
+              "RelativeToolTip": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:54:46.329Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Vehiculo.cs",
+              "RelativeToolTip": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Vehiculo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:02:33.941Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Auto.cs",
+              "RelativeDocumentMoniker": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Auto.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Auto.cs",
+              "RelativeToolTip": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Auto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:25:18.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Moto.cs",
+              "RelativeDocumentMoniker": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Moto.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Moto.cs",
+              "RelativeToolTip": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Moto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:24:52.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRapido.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\IRapido.cs",
+              "RelativeDocumentMoniker": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\IRapido.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\IRapido.cs",
+              "RelativeToolTip": "Sistema de Gesti\u00F3n de Alquiler de Veh\u00EDculos\\IRapido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:23:00.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
