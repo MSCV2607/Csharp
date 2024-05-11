@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\casino2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\ejercicios\\casino2.0\\casino2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|solutionrelative:casino2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\casino2.0\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\casino2.0\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|solutionrelative:casino2.0\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\casino2.0\\casino2.0\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\casino2.0\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|solutionrelative:casino2.0\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\casino2.0\\casino2.0\\apuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\casino2.0\\apuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6911EBD7-A643-4DAB-AE5B-A83605CA0A3F}|Casino2.0\\Casino2.0.csproj|solutionrelative:casino2.0\\apuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,27 +32,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Program.cs",
               "RelativeDocumentMoniker": "Casino2.0\\Program.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Program.cs",
               "RelativeToolTip": "Casino2.0\\Program.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAgwGAAAAAxAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwGAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T23:46:45.555Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Apuesta.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Apuesta.cs",
-              "RelativeDocumentMoniker": "Casino2.0\\Apuesta.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Apuesta.cs",
-              "RelativeToolTip": "Casino2.0\\Apuesta.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:26:58.538Z",
               "EditorCaption": ""
             },
             {
@@ -61,29 +48,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apuesta.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Apuesta.cs",
+              "RelativeDocumentMoniker": "Casino2.0\\Apuesta.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Apuesta.cs",
+              "RelativeToolTip": "Casino2.0\\Apuesta.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:26:58.538Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Casino.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Casino.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Casino.cs",
               "RelativeDocumentMoniker": "Casino2.0\\Casino.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Casino.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Casino.cs",
               "RelativeToolTip": "Casino2.0\\Casino.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:14:02.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T00:14:02.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Persona.cs",
               "RelativeDocumentMoniker": "Casino2.0\\Persona.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Casino2.0\\Casino2.0\\Persona.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Ejercicios\\Casino2.0\\Casino2.0\\Persona.cs",
               "RelativeToolTip": "Casino2.0\\Persona.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA6wBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T23:47:10.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:47:10.692Z"
             }
           ]
         }

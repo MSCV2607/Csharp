@@ -5,3 +5,10 @@ C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino2.0\Casino2.0\obj\Debug\C
 C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino2.0\Casino2.0\obj\Debug\Casino2.0.csproj.CoreCompileInputs.cache
 C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino2.0\Casino2.0\obj\Debug\Casino2.0.exe
 C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino2.0\Casino2.0\obj\Debug\Casino2.0.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\bin\Debug\Casino2.0.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\bin\Debug\Casino2.0.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\bin\Debug\Casino2.0.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\obj\Debug\Casino2.0.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\obj\Debug\Casino2.0.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\obj\Debug\Casino2.0.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ejercicios\Casino2.0\Casino2.0\obj\Debug\Casino2.0.pdb
