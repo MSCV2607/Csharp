@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\obj\Debug\Act22-Dados.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\obj\Debug\Act22-Dados.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\bin\Debug\Act22-Dados.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\bin\Debug\Act22-Dados.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\bin\Debug\Act22-Dados.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\obj\Debug\Act22-Dados.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Act22-Dados\Act22-Dados\obj\Debug\Act22-Dados.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0EF24AFA-09EC-42E8-840A-EB2D3659E2BC}</ProjectGuid>
+    <ProjectGuid>{5DE70498-6402-455C-9E42-10AAB8555947}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Casino</RootNamespace>
-    <AssemblyName>Casino</AssemblyName>
+    <RootNamespace>Act22_Dados</RootNamespace>
+    <AssemblyName>Act22-Dados</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dado.cs" />
+    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
