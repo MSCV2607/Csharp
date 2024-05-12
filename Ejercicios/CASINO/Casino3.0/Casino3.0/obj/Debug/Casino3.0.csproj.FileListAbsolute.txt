@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\bin\Debug\Casino3.0.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\bin\Debug\Casino3.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\bin\Debug\Casino3.0.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\obj\Debug\Casino3.0.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\obj\Debug\Casino3.0.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\obj\Debug\Casino3.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Casino3.0\Casino3.0\obj\Debug\Casino3.0.pdb
