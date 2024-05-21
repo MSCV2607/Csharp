@@ -1,7 +1,0 @@
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\bin\Debug\POO.exe.config
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\bin\Debug\POO.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\bin\Debug\POO.pdb
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\obj\Debug\POO.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\POO\POO\obj\Debug\POO.pdb

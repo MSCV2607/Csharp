@@ -1,7 +1,0 @@
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\bin\Debug\Herencia.exe.config
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\bin\Debug\Herencia.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\bin\Debug\Herencia.pdb
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\obj\Debug\Herencia.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Herencia\Herencia\obj\Debug\Herencia.pdb

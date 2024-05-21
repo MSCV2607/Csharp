@@ -1,7 +1,0 @@
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\obj\Debug\UsoCoche.csproj.AssemblyReference.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\obj\Debug\UsoCoche.csproj.CoreCompileInputs.cache
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\bin\Debug\UsoCoche.exe.config
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\bin\Debug\UsoCoche.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\bin\Debug\UsoCoche.pdb
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\obj\Debug\UsoCoche.exe
-C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\UsoCoche\UsoCoche\obj\Debug\UsoCoche.pdb

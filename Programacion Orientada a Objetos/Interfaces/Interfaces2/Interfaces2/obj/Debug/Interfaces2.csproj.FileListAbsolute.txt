@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Programacion Orientada a Objetos\Interfaces\Interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.pdb

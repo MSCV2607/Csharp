@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\imamiferosterrestres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\imamiferosterrestres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\isaltoconpatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\isaltoconpatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\ianimalesdeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\ianimalesdeportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\ballena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\gorilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces\\interfaces2\\interfaces2\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449184-B938-4C49-B9A8-39CAA993846D}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Program.cs",
+              "RelativeToolTip": "Interfaces2\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:50:34.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caballo.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Caballo.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Caballo.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Caballo.cs",
+              "RelativeToolTip": "Interfaces2\\Caballo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:55:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISaltoConPatas.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\ISaltoConPatas.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\ISaltoConPatas.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\ISaltoConPatas.cs",
+              "RelativeToolTip": "Interfaces2\\ISaltoConPatas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMamiferosTerrestres.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\IMamiferosTerrestres.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\IMamiferosTerrestres.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\IMamiferosTerrestres.cs",
+              "RelativeToolTip": "Interfaces2\\IMamiferosTerrestres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:53:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimalesDeportes.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\IAnimalesDeportes.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\IAnimalesDeportes.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\IAnimalesDeportes.cs",
+              "RelativeToolTip": "Interfaces2\\IAnimalesDeportes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:11:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ballena.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Ballena.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Ballena.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Ballena.cs",
+              "RelativeToolTip": "Interfaces2\\Ballena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:55:55.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gorilas.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Gorilas.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Gorilas.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Gorilas.cs",
+              "RelativeToolTip": "Interfaces2\\Gorilas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:54:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Humano.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Humano.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Humano.cs",
+              "RelativeToolTip": "Interfaces2\\Humano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:54:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Mamifero.cs",
+              "RelativeDocumentMoniker": "Interfaces2\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces\\Interfaces2\\Interfaces2\\Mamifero.cs",
+              "RelativeToolTip": "Interfaces2\\Mamifero.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:52:59.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

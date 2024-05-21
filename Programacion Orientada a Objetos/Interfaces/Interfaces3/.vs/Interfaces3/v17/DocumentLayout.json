@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces3\\interfaces3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|solutionrelative:interfaces3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces3\\interfaces3\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|solutionrelative:interfaces3\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\programacion orientada a objetos\\interfaces\\interfaces3\\interfaces3\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A6BB6B-C739-4ECB-9516-325F00705B4D}|Interfaces3\\Interfaces3.csproj|solutionrelative:interfaces3\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces3\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\Program.cs",
+              "RelativeToolTip": "Interfaces3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:59:49.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvisosTrafico.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\AvisosTrafico.cs",
+              "RelativeDocumentMoniker": "Interfaces3\\AvisosTrafico.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\AvisosTrafico.cs",
+              "RelativeToolTip": "Interfaces3\\AvisosTrafico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:03:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAvisos.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\IAvisos.cs",
+              "RelativeDocumentMoniker": "Interfaces3\\IAvisos.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Programacion Orientada a Objetos\\Interfaces\\Interfaces3\\Interfaces3\\IAvisos.cs",
+              "RelativeToolTip": "Interfaces3\\IAvisos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:01:08.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
