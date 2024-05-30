@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\bin\Debug\SIMON.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\bin\Debug\SIMON.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\bin\Debug\SIMON.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.SIMON.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\SIMON\SIMON\obj\Debug\SIMON.pdb

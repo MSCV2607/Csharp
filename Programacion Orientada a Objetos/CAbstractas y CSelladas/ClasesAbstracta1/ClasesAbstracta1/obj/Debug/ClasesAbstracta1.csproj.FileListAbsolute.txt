@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\bin\Debug\ClasesAbstracta1.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\bin\Debug\ClasesAbstracta1.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\bin\Debug\ClasesAbstracta1.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\obj\Debug\ClasesAbstracta1.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\obj\Debug\ClasesAbstracta1.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\obj\Debug\ClasesAbstracta1.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\ClasesAbstracta1\ClasesAbstracta1\obj\Debug\ClasesAbstracta1.pdb

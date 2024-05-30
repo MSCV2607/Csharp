@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\bin\Debug\PrimeraAplicacionWF.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\bin\Debug\PrimeraAplicacionWF.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\bin\Debug\PrimeraAplicacionWF.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\PrimeraAplicacionWF\PrimeraAplicacionWF\obj\Debug\PrimeraAplicacionWF.pdb
