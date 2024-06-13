@@ -29,8 +29,9 @@
         private void InitializeComponent()
         {
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.B3 = new System.Windows.Forms.Button();
+            this.FECHA2 = new System.Windows.Forms.DateTimePicker();
+            this.FECHA1 = new System.Windows.Forms.DateTimePicker();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.IGUAL = new System.Windows.Forms.Button();
@@ -44,6 +45,7 @@
             this.B4 = new System.Windows.Forms.Button();
             this.B2 = new System.Windows.Forms.Button();
             this.B1 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.COLOR3 = new System.Windows.Forms.Button();
             this.MODULO = new System.Windows.Forms.Button();
             this.COLOR2 = new System.Windows.Forms.Button();
@@ -53,13 +55,15 @@
             this.RESTA = new System.Windows.Forms.Button();
             this.MULTIPLICACION = new System.Windows.Forms.Button();
             this.SUMA = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.B3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.ResDiaas = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // splitContainer1
@@ -72,9 +76,11 @@
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.Controls.Add(this.panel2);
+            this.splitContainer1.Panel1.Controls.Add(this.button2);
             this.splitContainer1.Panel1.Controls.Add(this.B3);
-            this.splitContainer1.Panel1.Controls.Add(this.dateTimePicker2);
-            this.splitContainer1.Panel1.Controls.Add(this.dateTimePicker1);
+            this.splitContainer1.Panel1.Controls.Add(this.FECHA2);
+            this.splitContainer1.Panel1.Controls.Add(this.FECHA1);
             this.splitContainer1.Panel1.Controls.Add(this.panel1);
             this.splitContainer1.Panel1.Controls.Add(this.IGUAL);
             this.splitContainer1.Panel1.Controls.Add(this.Enter);
@@ -107,21 +113,33 @@
             this.splitContainer1.TabIndex = 0;
             this.splitContainer1.SplitterMoved += new System.Windows.Forms.SplitterEventHandler(this.splitContainer1_SplitterMoved);
             // 
-            // dateTimePicker2
+            // B3
             // 
-            this.dateTimePicker2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.dateTimePicker2.Location = new System.Drawing.Point(3, 177);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePicker2.TabIndex = 15;
+            this.B3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.B3.Location = new System.Drawing.Point(241, 247);
+            this.B3.Name = "B3";
+            this.B3.Size = new System.Drawing.Size(112, 39);
+            this.B3.TabIndex = 16;
+            this.B3.Text = "3";
+            this.B3.UseVisualStyleBackColor = true;
+            this.B3.Click += new System.EventHandler(this.B3_Click_1);
             // 
-            // dateTimePicker1
+            // FECHA2
             // 
-            this.dateTimePicker1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.dateTimePicker1.Location = new System.Drawing.Point(3, 151);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePicker1.TabIndex = 14;
+            this.FECHA2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.FECHA2.Location = new System.Drawing.Point(5, 191);
+            this.FECHA2.Name = "FECHA2";
+            this.FECHA2.Size = new System.Drawing.Size(200, 20);
+            this.FECHA2.TabIndex = 15;
+            // 
+            // FECHA1
+            // 
+            this.FECHA1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.FECHA1.Location = new System.Drawing.Point(5, 217);
+            this.FECHA1.Name = "FECHA1";
+            this.FECHA1.Size = new System.Drawing.Size(200, 20);
+            this.FECHA1.TabIndex = 14;
+            this.FECHA1.ValueChanged += new System.EventHandler(this.FECHA1_ValueChanged);
             // 
             // panel1
             // 
@@ -264,6 +282,17 @@
             this.B1.UseVisualStyleBackColor = true;
             this.B1.Click += new System.EventHandler(this.B1_Click);
             // 
+            // button1
+            // 
+            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button1.Location = new System.Drawing.Point(3, 92);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(117, 28);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "ORIGINAL";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // COLOR3
             // 
             this.COLOR3.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -363,27 +392,35 @@
             this.SUMA.UseVisualStyleBackColor = true;
             this.SUMA.Click += new System.EventHandler(this.SUMA_Click);
             // 
-            // button1
+            // button2
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.Location = new System.Drawing.Point(3, 92);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(117, 28);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "ORIGINAL";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button2.Location = new System.Drawing.Point(241, 202);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 18;
+            this.button2.Text = "CALCULAR";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // B3
+            // panel2
             // 
-            this.B3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.B3.Location = new System.Drawing.Point(241, 247);
-            this.B3.Name = "B3";
-            this.B3.Size = new System.Drawing.Size(112, 39);
-            this.B3.TabIndex = 16;
-            this.B3.Text = "3";
-            this.B3.UseVisualStyleBackColor = true;
-            this.B3.Click += new System.EventHandler(this.B3_Click_1);
+            this.panel2.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.panel2.Controls.Add(this.ResDiaas);
+            this.panel2.Location = new System.Drawing.Point(5, 154);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(341, 31);
+            this.panel2.TabIndex = 19;
+            // 
+            // ResDiaas
+            // 
+            this.ResDiaas.AutoSize = true;
+            this.ResDiaas.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ResDiaas.Location = new System.Drawing.Point(3, 4);
+            this.ResDiaas.Name = "ResDiaas";
+            this.ResDiaas.Size = new System.Drawing.Size(203, 21);
+            this.ResDiaas.TabIndex = 0;
+            this.ResDiaas.Text = "CALCULADORA DE FECHAS";
+            this.ResDiaas.Click += new System.EventHandler(this.ResDiaas_Click);
             // 
             // Form1
             // 
@@ -400,6 +437,8 @@
             this.splitContainer1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -429,10 +468,13 @@
         private System.Windows.Forms.Button COLOR3;
         private System.Windows.Forms.Button COLOR2;
         private System.Windows.Forms.Button COLOR1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker FECHA2;
+        private System.Windows.Forms.DateTimePicker FECHA1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button B3;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Label ResDiaas;
     }
 }
 

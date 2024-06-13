@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Calculadora V1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\calculadora v1.0\\calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|solutionrelative:calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\calculadora\\calculadora v1.0\\calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|solutionrelative:calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|c:\\users\\mauro\\onedrive\\escritorio\\csharp\\calculadora v1.0\\calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|solutionrelative:calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A71BAAB-7566-49FC-BD85-226AF401F266}|Calculadora V1.0\\Calculadora V1.0.csproj|solutionrelative:calculadora v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +34,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora V1.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
               "RelativeToolTip": "Calculadora V1.0\\Form1.cs",
-              "ViewState": "AQIAAIoBAAAAAAAAAADgv5kBAAAAAAAA",
+              "ViewState": "AQIAAJgBAAAAAAAAAAAqwKoBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:34:14.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora V1.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\Csharp\\CALCULADORA\\Calculadora V1.0\\Calculadora V1.0\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Calculadora V1.0\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:31:01.921Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-08T16:31:01.921Z"
             }
           ]
         }

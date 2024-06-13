@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\bin\Debug\Escribir y leer.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\bin\Debug\Escribir y leer.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\bin\Debug\Escribir y leer.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir y leer.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir_y_leer.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir_y_leer.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir y leer.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir y leer.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir y leer.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Escribir y leer\Escribir y leer\obj\Debug\Escribir y leer.pdb

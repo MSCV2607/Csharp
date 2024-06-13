@@ -1,0 +1,12 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\bin\Debug\Mensajes.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\bin\Debug\Mensajes.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\bin\Debug\Mensajes.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.Form2.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Mensajes\Mensajes\obj\Debug\Mensajes.Form3.resources

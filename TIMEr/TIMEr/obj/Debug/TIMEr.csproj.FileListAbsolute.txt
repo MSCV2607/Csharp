@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\bin\Debug\TIMEr.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\bin\Debug\TIMEr.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\bin\Debug\TIMEr.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\TIMEr\TIMEr\obj\Debug\TIMEr.pdb

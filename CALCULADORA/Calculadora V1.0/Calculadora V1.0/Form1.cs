@@ -409,5 +409,37 @@ namespace Calculadora_V1._0
         {
 
         }
+
+
+        DateTime d1;
+        DateTime d2;
+        TimeSpan dr;
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            d1 = FECHA1.Value;
+            d2 = FECHA2.Value;
+
+            dr = d1 - d2;
+
+
+            ResDiaas.Text = dr.Days.ToString();
+
+        }
+
+        private void FECHA1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FECHARR_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ResDiaas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

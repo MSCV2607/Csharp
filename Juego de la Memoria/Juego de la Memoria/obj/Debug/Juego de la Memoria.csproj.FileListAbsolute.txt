@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\bin\Debug\Juego de la Memoria.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\bin\Debug\Juego de la Memoria.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\bin\Debug\Juego de la Memoria.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego de la Memoria.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego_de_la_Memoria.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego_de_la_Memoria.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego de la Memoria.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego de la Memoria.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego de la Memoria.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Juego de la Memoria\Juego de la Memoria\obj\Debug\Juego de la Memoria.pdb
