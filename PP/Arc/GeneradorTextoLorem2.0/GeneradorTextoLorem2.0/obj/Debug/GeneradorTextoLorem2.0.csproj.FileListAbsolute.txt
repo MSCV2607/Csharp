@@ -1,0 +1,10 @@
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\bin\Debug\GeneradorTextoLorem2.0.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\bin\Debug\GeneradorTextoLorem2.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\bin\Debug\GeneradorTextoLorem2.0.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2.0.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2._0.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2._0.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2.0.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2.0.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#\GeneradorTextoLorem2.0\GeneradorTextoLorem2.0\obj\Debug\GeneradorTextoLorem2.0.pdb

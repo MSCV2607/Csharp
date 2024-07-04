@@ -1,0 +1,10 @@
+--------MENSAJE--------
+Persona enviada: Maria
+CUERPO: Hola 
+
+
+--------MENSAJE--------
+Persona enviada: Juan
+CUERPO: Envio este correo para probar el envio de archivos
+
+

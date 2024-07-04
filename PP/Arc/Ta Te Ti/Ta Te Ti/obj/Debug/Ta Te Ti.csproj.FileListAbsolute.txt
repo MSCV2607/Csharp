@@ -1,0 +1,20 @@
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta_Te_Ti.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta_Te_Ti.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.exe.config
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\bin\Debug\Ta Te Ti.pdb
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta_Te_Ti.Form1.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta_Te_Ti.Properties.Resources.resources
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.GenerateResource.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.exe
+C:\Users\mauro\OneDrive\Escritorio\Csharp-master\WF\Ta Te Ti\Ta Te Ti\obj\Debug\Ta Te Ti.pdb

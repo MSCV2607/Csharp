@@ -1,0 +1,10 @@
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\bin\Debug\RPARCIAL.exe.config
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\bin\Debug\RPARCIAL.exe
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\bin\Debug\RPARCIAL.pdb
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.csproj.AssemblyReference.cache
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.Form1.resources
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.Properties.Resources.resources
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.csproj.GenerateResource.cache
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.exe
+C:\Users\mauro\source\repos\RPARCIAL\RPARCIAL\obj\Debug\RPARCIAL.pdb
